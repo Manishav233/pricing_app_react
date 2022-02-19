@@ -3,6 +3,7 @@ import './App.css';
 import Sub from './Sub';
 
 function App() {
+//Array consisting of different plans
 const plans=[
 {
 name: 'FREE',
